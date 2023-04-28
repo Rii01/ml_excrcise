@@ -18,6 +18,6 @@ plt.plot(x, y, label="true value")
 plt.scatter(xdot, ydot, c="pink",)
 plt.show()
 fig = plt.figure()
-fig.savefig('./Dataset/ex1_2/ex1.2.png')
+fig.savefig('./Dataset/ex1_2/1.2.png')
 
 
