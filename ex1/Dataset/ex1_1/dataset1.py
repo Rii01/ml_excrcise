@@ -5,8 +5,6 @@ def true_function(X):
     y = np.sin(np.pi * X * 0.8) * 10
     return y
 
-height = np.array([])
-
 
 x = np.arange(-1, 1, 0.1)
 y = true_function(x)
